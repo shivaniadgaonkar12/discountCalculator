@@ -14,15 +14,20 @@ body{
 
     width: 800px;
 
+    height:500px;
+
     background-color: #0d5c63;
 
     margin-left: 450px;
 
-    margin-top: 300px;
+    margin-top: 100px;
 
     border-radius: 10px;
+    
+   
 
 }
+
 
 h2 {
 
@@ -44,7 +49,7 @@ p{
 
     font-family: 'Roboto Slab', serif;
 
-    font-size: x-large;
+    font-size: large;
 
     margin-left: 20px;
 
@@ -103,15 +108,17 @@ input{
     margin-top: 25px;
 
 }
-
-#calculator:hover{
-
-    background-color: burlywood;
-
+#icon1{
+    word-spacing: 2ch;
+    text-align: center;
+    
 }
+
 
 #total{
 
     text-align: centers;
 
 }
+a{ 
+    letter-spacing: normal;}
